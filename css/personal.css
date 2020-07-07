@@ -1,0 +1,28 @@
+body,html
+{
+    position: relative;
+    background-color: #43ABC9;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+main
+{
+    
+    text-align: center;
+    margin-top: 10px;
+    border: black 2px solid;
+    width: 60%;
+    height: 200px;
+    
+    margin-left: 20px;
+}
+img
+{
+    position: absolute;
+    top:0;
+    right: 10px;
+    height: 200px;
+    width: 200px;
+}
